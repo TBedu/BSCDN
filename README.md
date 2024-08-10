@@ -1,0 +1,1 @@
+这是一个Blessing Skin的前端资源文件CDN以及Blessing Skin更新源
